@@ -50,7 +50,7 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
-```
+~~~
 
 ## Output:
 ![image](https://github.com/RuchitraThiyagaraj/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/154776996/4ea6bdaf-2aaa-4e67-afa6-c0b92fc5f7c8)
